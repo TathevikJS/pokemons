@@ -32,8 +32,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The application includes a fake authentication system. Use the following credentials to access protected routes:
 
-Username: admin
-Password: password
+- Username: admin
+- Password: password
+
 Upon logging in with these credentials, you'll gain access to protected areas of the application.
 
 ## Deploy on Vercel
